@@ -1,7 +1,21 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Agero.Core.Checker</PackageId>    
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0</Version>
+    <Authors>Core Automation Team</Authors>
+    <Company>Agero Inc.</Company>
+    <Copyright>Copyright © Agero 2018</Copyright>
+    <Product></Product>    
+    <Description></Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>    
   </PropertyGroup>
+   
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DocumentationFile>bin\Debug\netstandard2.0\Agero.Core.Checker.xml</DocumentationFile>
   </PropertyGroup>
