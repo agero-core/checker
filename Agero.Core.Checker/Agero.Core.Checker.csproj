@@ -14,7 +14,9 @@
         <PackageReleaseNotes></PackageReleaseNotes>
         <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <PackageIconUrl>https://secure.gravatar.com/avatar/8b6c044292b862f1870550039390f631</PackageIconUrl>
-        <PackageLicenseUrl>https://raw.githubusercontent.com/agero-core/checker/master/LICENSE</PackageLicenseUrl>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/agero-core/checker/master/LICENSE.md</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/agero-core/checker.git</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
         <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
         <PublishRepositoryUrl>true</PublishRepositoryUrl> 
