@@ -1,6 +1,9 @@
-**Helper library that helps assert assumptions in the code**
+# Checker
 
-This helps to declare all assumption explicitly and continue to write code based on specified assumptions.
+[![NuGet Version](http://img.shields.io/nuget/v/Agero.Core.Checker.svg?style=flat)](https://www.nuget.org/packages/Agero.Core.Checker/) 
+[![NuGet Downloads](http://img.shields.io/nuget/dt/Agero.Core.Checker.svg?style=flat)](https://www.nuget.org/packages/Agero.Core.Checker/)
+
+Helper library that helps assert assumptions in the code. This helps to declare all assumption explicitly and continue to write code based on specified assumptions.
 
 For example:
 
